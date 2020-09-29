@@ -19,7 +19,7 @@ import com.tririga.utility.ConfigDataProvider;
 import com.tririga.utility.ExcelDataProvider;
 import com.tririga.utility.Helper;
 
-
+// 
 public class BaseClass {
 	
 	public  WebDriver driver;
