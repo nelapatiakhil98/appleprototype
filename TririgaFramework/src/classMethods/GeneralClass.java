@@ -6,7 +6,7 @@ import space.GeneralFunctionality;
 
 public class GeneralClass extends GeneralFunctionality{
 
-	
+	/////
 		
 		public static void isDisplayed(String name) throws InterruptedException
 		{
